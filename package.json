@@ -22,7 +22,6 @@
     "@remotion/player": "^4.0.136",
     "@remotion/bundler": "^4.0.136",
     "@remotion/studio": "^4.0.136",
-    "@remotion/gpu": "^4.0.136",
     "@remotion/media-utils": "^4.0.136",
     "react-dnd": "^16.0.1",
     "react-dnd-html5-backend": "^16.0.1",
